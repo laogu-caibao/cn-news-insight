@@ -1,0 +1,5 @@
+slug: laogu-news
+display_name: 财经资讯解读
+description: 财经资讯解读：输入一篇财经新闻/研报/公告，输出结构化中文解读（事件摘要、影响链条、多空判断、关联标的、历史类比、后续跟踪点）。
+version: 1.0.1
+author: 老谷拆财报
